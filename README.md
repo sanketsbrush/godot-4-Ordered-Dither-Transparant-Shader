@@ -1,3 +1,6 @@
+check out video:
+https://youtu.be/z5g8GBFffvI
+
 To use this shader :  
   1. Generate "DitherTexture.png" using provided gdscript.  
   2. Import this png with lossless compression.  
